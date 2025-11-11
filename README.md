@@ -45,6 +45,6 @@ Data Cleaning | Data Transformation | Dashboard Design | Analytical Thinking | E
 ---
 
 ### 📁 Files Included
-1. **Excel Capstone Project - Healthcare Analysis and Insights.xlsx** — [Completed analysis and dashboard](https://github.com/narmadhabalaji/Healthcare-Data-Analysis/blob/main/Healthcare%20data%20Analysis%20and%20Insights.xlsx)
+1. **Healthcare Analysis and Insights.xlsx** — [Completed analysis and dashboard](https://github.com/narmadhabalaji/Healthcare-Data-Analysis/blob/main/Healthcare%20data%20Analysis%20and%20Insights.xlsx)
 
 
